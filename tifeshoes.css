@@ -1,0 +1,196 @@
+
+       
+.header{padding:  1px 100px 1px 100px;
+	text-align: center;
+  background: black;
+  color: white;
+  font-size: 15px;
+  position: ;
+  line-height: 0.2;
+  margin: auto;
+  border: 2000px;
+  font-family:"Sofia";
+
+}
+
+/*Navbar*/
+.topnav {
+  overflow: hidden;
+  background-color: black;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 5px 50px 5px 50px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: grey;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: black;
+}
+.para {font-size: 20px;
+padding-left: 30px;
+padding-right: 30px;
+
+}
+.parag{font-size: 20px;
+padding-left: 30px;
+padding-right: 30px; 
+background-color:#d98cfc; }
+
+.responsive{max-width: 550px;
+height: 293.5px;
+width: 100%;
+float: right;}
+
+.navbar {
+background-color: black;}
+
+
+.navbar-brand {font-family: "Sofia";
+}
+.nav-link {font-size: 23px;}
+
+
+
+.two {background-color: black;
+  padding-left: 300px;
+  color: white;
+  font-family: sans-serif; 
+}
+.men {font-size: 50px;
+color: grey;
+padding-left: 80px;}
+.hea {max-width: 100%;
+height: 350px;}
+/*Heading AD
+*/h4 {background-color: #d98cfc;
+font-family: sans-serif;
+color: black;
+width: 1000;
+border: 2000px;}
+.menpics{width:175.0px;}
+.her {max-width: 100%;
+}
+
+
+/*
+
+.container {
+  position: relative;
+}
+
+/* Bottom right text */
+/*.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}*/
+
+.img-fluid{ max-width: 100%;
+  height:auto;}
+
+.container{background-color: black;
+color: white;
+width: 100%;}
+
+
+.footer{background-color: #d98cfc; 
+font-family: "Sofia"}
+
+
+.footer-logo {background-color: black;
+color: white;
+padding-bottom: 100px;
+}
+
+input[type=submit]:hover {
+  background-color: #d98cfc;}
+
+
+
+
+input[type=submit] {
+  width: 100%;
+  background-color: grey;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;}
+
+
+
+  .fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.fa-skype {
+  background: #00aff0;
+  color: white;
+}
